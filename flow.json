@@ -1,1 +1,1 @@
-[]
+[{"id":"3a07518a.abf22e","type":"tab","label":"SampleNodeRedProject","disabled":false,"info":"Trying out Node-red Projects    "},{"id":"ade8be0f.765ef","type":"inject","z":"3a07518a.abf22e","name":"","topic":"","payload":"","payloadType":"date","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":260,"y":240,"wires":[["c869952.a016568"]]},{"id":"c869952.a016568","type":"debug","z":"3a07518a.abf22e","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"true","x":500,"y":240,"wires":[]}]
